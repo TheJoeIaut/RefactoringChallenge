@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="Chess.cs" />
+    <Compile Include="SportsPersonService.cs" />
+    <Compile Include="MeasurementLoader.cs" />
+    <Compile Include="Person.cs" />
+    <Compile Include="PersonRepository.cs" />
+    <Compile Include="Soccer.cs" />
+    <Compile Include="Tennis.cs" />
+  </ItemGroup>
+
+</Project>
