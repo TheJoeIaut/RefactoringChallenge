@@ -1,5 +1,5 @@
 ﻿namespace LegacyApp;
-public class PersonService
+public class SportsPersonService
 {
     public bool AddSportsPerson(string fname, string lastname, DateTime birthdate, string email, object favSport)
     {

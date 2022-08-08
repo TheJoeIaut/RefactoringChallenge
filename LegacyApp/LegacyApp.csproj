@@ -6,14 +6,4 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Compile Include="Chess.cs" />
-    <Compile Include="SportsPersonService.cs" />
-    <Compile Include="MeasurementLoader.cs" />
-    <Compile Include="Person.cs" />
-    <Compile Include="PersonRepository.cs" />
-    <Compile Include="Soccer.cs" />
-    <Compile Include="Tennis.cs" />
-  </ItemGroup>
-
 </Project>
